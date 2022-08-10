@@ -1,0 +1,10 @@
+
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+/*Estos son los imports para tener acceso a Tailwind CSS 
+    Normalmente en está página se escribiria todo el código CSS, pero como estamos usando tailwindCSS
+    sencillamente se importa lo que necesitamos y luego ya se puede usar en todos los archivos que deriven del main
+    o el proyecto¿
+*/
